@@ -1031,7 +1031,9 @@
 /* Banner */
 
 	#banner {
-		background-image: url(../images/dark_tint.png), url(../images/bokeh_car_lights_bg.jpg);
+		/*background-image: url(../images/dark_tint.png), url(../images/bokeh_car_lights_bg.jpg);*/
+		background-image: url(../images/dark_tint.png), url(http://images.unsplash.com/photo-1428865798880-73444f4cbefc?crop=entropy&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1300);
+		
 		background-position: center center;
 		background-size: cover;
 		color: #ffffff;
